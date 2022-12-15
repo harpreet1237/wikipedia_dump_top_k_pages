@@ -1,4 +1,4 @@
-Entry Number : 2020MCB1237
+Entry Number : 2020MCB1237 (Course Project - Social Computing and Networks)
 Name: Harpreet Singh
 Drive Link: https://drive.google.com/drive/folders/1W9NGeKyOOWk_rc0pqCwXeUkJHj-MzEs0?usp=sharing 
 
